@@ -12,7 +12,7 @@
 		"sourceTemplate": {
 			"id": "ui5template.basicSAPUI5ApplicationProject",
 			"version": "1.40.12"
-		}
+		}	
 	},
 	"sap.ui": {
 		"technology": "UI5",

@@ -2,11 +2,5 @@
 	controllerName="mds.UI5MasterDetailSkeleton.controller.SplitApp" xmlns:html="http://www.w3.org/1999/xhtml"
 	busy="{appView>/busy}"
 	busyIndicatorDelay="{appView>/delay}">
-	<App id="idSplitAppControl">
-		<pages>
-			<Page title="Title">
-				<content></content>
-			</Page>
-		</pages>
-	</App>
+	<SplitApp id="idSplitAppControl" />
 </mvc:View>
